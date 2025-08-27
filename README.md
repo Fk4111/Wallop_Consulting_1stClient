@@ -1,4 +1,6 @@
 # Wallop_Consulting_1stClient
-Handled the 1st client perfectly and it was awesome journey they want to make and static simple website with HTML,CSS,JavaScript so that they can also change thing accordingly.
-Wallop Consulting is a company which handles the clients for SEO optimisation and for Digital Marketing.
-
+Succesfully completed my first ever client project with Wallop Consulting. From gathering requirements, designing
+the UI, and implementing responsive layouts to deploying the final websites.
+I managed the entire development cycle independently.
+This project not only boosted confidence but also marked an important milestone in my journey
+as a Web developer.
